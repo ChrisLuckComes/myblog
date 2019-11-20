@@ -1,0 +1,105 @@
+module.exports = {
+  title: "Chris Luo",
+  description: "个人博客",
+  base: "/realBlog/",
+  themeConfig: {
+    displayAllHeaders: true,
+    activeHeaderLinks: false,
+    sidebar: [
+      { title: "介绍", children: [["/main/main", "介绍"]] },
+      {
+        title: "CSS",
+        // collapsable: true,
+        children: [
+          ["/CSS/text-overflow", "text-overflow"],
+          ["/CSS/textarea去除右下角箭头", "textarea去除右下角箭头"],
+          ["/CSS/关于whitespace", "关于whitespace"],
+          ["/CSS/字体颜色渐变", "字体颜色渐变"],
+          ["/CSS/首行缩进", "首行缩进"],
+          ["/CSS/锚点定位", "锚点定位"],
+          [
+            "/CSS/样式名很麻烦？使用postcss-alias偷懒",
+            "样式名很麻烦？使用postcss-alias偷懒"
+          ],
+          [
+            "/CSS/sass共用代码 @include 和 @extend",
+            "sass共用代码 @include 和 @extend"
+          ],
+          [
+            "/CSS/使用include-media简化媒体查询写法",
+            "使用include-media简化媒体查询写法"
+          ],
+          [
+            "/CSS/前端利器 - 使用iconfont管理图标",
+            "前端利器 - 使用iconfont管理图标"
+          ],
+          ["/CSS/滚动条样式", "滚动条样式"],
+          ["/CSS/px转换rem和vw函数", "px转换rem和vw函数"],
+          ["/CSS/grid网格布局实战", "grid网格布局实战"],
+          ["/CSS/由等高布局引出的BFC概念", "由等高布局引出的BFC概念"]
+        ]
+      },
+      {
+        title: "Vue",
+        children: [
+          ["/Vue/跨域配置", "跨域配置"],
+          ["/Vue/render函数和JSX实战", "render函数和JSX实战"],
+          ["/Vue/初始化vuex数据", "初始化vuex数据"],
+          ["/Vue/在VS Code中调试vue", "在VS Code中调试vue"],
+          ["/Vue/路由鉴权", "路由鉴权"],
+          ["/Vue/过滤器实战", "过滤器实战"],
+          [
+            "/Vue/使用vue-cli3.0轻松创建Vue项目",
+            "使用vue-cli3.0轻松创建Vue项目"
+          ],
+          ["/Vue/使用vue-i18n实现国际化", "使用vue-i18n实现国际化"],
+          ["/Vue/vue-router打开新标签页", "vue-router打开新标签页"],
+          ["/Vue/history路由nginx配置", "history路由nginx配置"],
+          ["/Vue/在客户端侧代码中使用环境变量", "在客户端侧代码中使用环境变量"]
+        ]
+      },
+      {
+        title: "Node.js",
+        children: [["/Node.js/路径总结", "路径总结"]]
+      },
+      {
+        title: "JavaScript",
+        children: [
+          ["/JavaScript/防抖和节流", "防抖和节流"],
+          ["/JavaScript/AST抽象语法树", "AST抽象语法树"],
+          ["/JavaScript/call,apply,bind.md", "call,apply,bind"],
+          ["/JavaScript/函数柯里化", "函数柯里化"]
+        ]
+      },
+      {
+        title: "前端",
+        children: [
+          ["/前端/缓存机制", "缓存机制"],
+          ["/前端/模块化", "模块化"],
+          ["/前端/前端工程化", "前端工程化"],
+          ["/前端/Web开发者性能优化最佳实践", "Web开发者性能优化最佳实践"],
+          ["/前端/语义化", "语义化"],
+          [
+            "/前端/script标签中async和defer的区别",
+            "script标签中async和defer的区别"
+          ],
+          ["/前端/https原理及流程","https原理及流程"],
+          ["/前端/xss攻击", "xss攻击"]
+        ]
+      },
+      {
+        title: "Webpack",
+        children: [
+          ["/Webpack/HelloWorld", "HelloWorld"],
+          ["/Webpack/Loader", "Loader"],
+          ["/Webpack/Plugin", "Plugin"],
+          ["/Webpack/devServer", "devServer"]
+        ]
+      },
+      {
+        title: "flutter",
+        children: [["/flutter/windows环境安装与配置", "windows环境安装与配置"]]
+      }
+    ]
+  }
+};
