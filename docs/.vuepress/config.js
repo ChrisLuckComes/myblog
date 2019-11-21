@@ -68,7 +68,9 @@ module.exports = {
           ["/JavaScript/防抖和节流", "防抖和节流"],
           ["/JavaScript/AST抽象语法树", "AST抽象语法树"],
           ["/JavaScript/call,apply,bind.md", "call,apply,bind"],
-          ["/JavaScript/函数柯里化", "函数柯里化"]
+          ["/JavaScript/函数柯里化", "函数柯里化"],
+          ["/JavaScript/大数计算", "大数计算"],
+          ["/JavaScript/相等运算符==的细节", "相等运算符==的细节"]
         ]
       },
       {
@@ -83,7 +85,7 @@ module.exports = {
             "/前端/script标签中async和defer的区别",
             "script标签中async和defer的区别"
           ],
-          ["/前端/https原理及流程","https原理及流程"],
+          ["/前端/https原理及流程", "https原理及流程"],
           ["/前端/xss攻击", "xss攻击"]
         ]
       },
