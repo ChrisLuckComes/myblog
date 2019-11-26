@@ -87,7 +87,8 @@ module.exports = {
             "script标签中async和defer的区别"
           ],
           ["/前端/https原理及流程", "https原理及流程"],
-          ["/前端/xss攻击", "xss攻击"]
+          ["/前端/xss攻击", "xss攻击"],
+          ["/前端/Event Loop", "Event Loop"]
         ]
       },
       {
