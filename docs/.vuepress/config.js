@@ -72,7 +72,11 @@ module.exports = {
           ["/JavaScript/大数计算", "大数计算"],
           ["/JavaScript/相等运算符==的细节", "相等运算符==的细节"],
           ["/JavaScript/继承的6种实现方式", "继承的6种实现方式"],
-          ["/JavaScript/从ECMA标准来解读this", "从ECMA标准来解读this"]
+          [
+            "/JavaScript/解读this的知识铺垫 - ECMA规范",
+            "解读this的知识铺垫 - ECMA规范"
+          ],
+          ["/JavaScript/译文：解读this", "译文：解读this"]
         ]
       },
       {
