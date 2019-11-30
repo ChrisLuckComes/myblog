@@ -78,9 +78,9 @@ module.exports = {
             "解读this的知识铺垫 - ECMA规范"
           ],
           ["/JavaScript/译文：解读this", "译文：解读this"],
-          ["/JavaScript/实现同步版本和异步版本的sleep", "实现同步版本和异步版本的sleep"],
+          ["/JavaScript/实现同步和异步版本的sleep", "实现同步和异步版本的sleep"],
           ["/JavaScript/实现模板字符串", "实现模板字符串"],
-          ["/JavaScript/实现形如add(1)(2)(3)的函数","实现形如add(1)(2)(3)的函数"]
+          ["/JavaScript/实现一个可以连续传参的累加函数","实现一个可以连续传参的累加函数"]
         ]
       },
       {
