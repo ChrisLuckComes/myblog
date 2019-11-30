@@ -1,4 +1,4 @@
-# es5,es6 两种方式实现 watch
+# es5,es6实现 watch
 
 首先模拟一个 vue 实例
 

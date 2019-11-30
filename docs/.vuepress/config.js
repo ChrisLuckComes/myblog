@@ -48,15 +48,11 @@ module.exports = {
           ["/Vue/在VS Code中调试vue", "在VS Code中调试vue"],
           ["/Vue/路由鉴权", "路由鉴权"],
           ["/Vue/过滤器实战", "过滤器实战"],
-          [
-            "/Vue/使用vue-cli3.0轻松创建Vue项目",
-            "使用vue-cli3.0轻松创建Vue项目"
-          ],
           ["/Vue/使用vue-i18n实现国际化", "使用vue-i18n实现国际化"],
           ["/Vue/vue-router打开新标签页", "vue-router打开新标签页"],
           ["/Vue/history路由nginx配置", "history路由nginx配置"],
           ["/Vue/在客户端侧代码中使用环境变量", "在客户端侧代码中使用环境变量"],
-          ["/Vue/es5,es6 两种方式实现 watch", "es5,es6 两种方式实现 watch"]
+          ["/Vue/es5,es6实现watch", "es5,es6实现watch"]
         ]
       },
       {
