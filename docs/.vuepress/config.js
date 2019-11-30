@@ -36,7 +36,11 @@ module.exports = {
           ["/CSS/滚动条样式", "滚动条样式"],
           ["/CSS/px转换rem和vw函数", "px转换rem和vw函数"],
           ["/CSS/grid网格布局实战", "grid网格布局实战"],
-          ["/CSS/由等高布局引出的BFC概念", "由等高布局引出的BFC概念"]
+          ["/CSS/由等高布局引出的BFC概念", "由等高布局引出的BFC概念"],
+          [
+            "/CSS/实现一个宽高恒为父容器宽度一半的正方形",
+            "实现一个宽高恒为父容器宽度一半的正方形"
+          ]
         ]
       },
       {
@@ -73,7 +77,10 @@ module.exports = {
             "/JavaScript/解读this的知识铺垫 - ECMA规范",
             "解读this的知识铺垫 - ECMA规范"
           ],
-          ["/JavaScript/译文：解读this", "译文：解读this"]
+          ["/JavaScript/译文：解读this", "译文：解读this"],
+          ["/JavaScript/实现同步版本和异步版本的sleep", "实现同步版本和异步版本的sleep"],
+          ["/JavaScript/实现模板字符串", "实现模板字符串"],
+          ["/JavaScript/实现形如add(1)(2)(3)的函数","实现形如add(1)(2)(3)的函数"]
         ]
       },
       {
