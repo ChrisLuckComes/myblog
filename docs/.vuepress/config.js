@@ -40,7 +40,9 @@ module.exports = {
           [
             "/CSS/实现一个宽高恒为父容器宽度一半的正方形",
             "实现一个宽高恒为父容器宽度一半的正方形"
-          ]
+          ],
+          ["/CSS/居中", "居中"],
+          ["/CSS/position", "position"]
         ]
       },
       {
@@ -78,9 +80,15 @@ module.exports = {
             "解读this的知识铺垫 - ECMA规范"
           ],
           ["/JavaScript/译文：解读this", "译文：解读this"],
-          ["/JavaScript/实现同步和异步版本的sleep", "实现同步和异步版本的sleep"],
+          [
+            "/JavaScript/实现同步和异步版本的sleep",
+            "实现同步和异步版本的sleep"
+          ],
           ["/JavaScript/实现模板字符串", "实现模板字符串"],
-          ["/JavaScript/实现一个可以连续传参的累加函数","实现一个可以连续传参的累加函数"]
+          [
+            "/JavaScript/实现一个可以连续传参的累加函数",
+            "实现一个可以连续传参的累加函数"
+          ]
         ]
       },
       {
