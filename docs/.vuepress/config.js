@@ -11,6 +11,8 @@ module.exports = {
         title: "CSS",
         // collapsable: true,
         children: [
+          ["/CSS/深入理解CSS优先级", "深入理解CSS优先级"],
+          ["/CSS/盒模型", "盒模型"],
           ["/CSS/text-overflow", "text-overflow"],
           ["/CSS/textarea去除右下角箭头", "textarea去除右下角箭头"],
           ["/CSS/关于whitespace", "关于whitespace"],
@@ -37,10 +39,7 @@ module.exports = {
           ["/CSS/px转换rem和vw函数", "px转换rem和vw函数"],
           ["/CSS/grid网格布局实战", "grid网格布局实战"],
           ["/CSS/由等高布局引出的BFC概念", "由等高布局引出的BFC概念"],
-          [
-            "/CSS/实现一个宽高恒为父容器宽度一半的正方形",
-            "实现一个宽高恒为父容器宽度一半的正方形"
-          ],
+          ["/CSS/实现长宽比恒定的元素", "实现长宽比恒定的元素"],
           ["/CSS/居中", "居中"],
           ["/CSS/position", "position"]
         ]
