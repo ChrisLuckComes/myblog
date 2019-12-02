@@ -58,7 +58,8 @@ module.exports = {
           ["/Vue/vue-router打开新标签页", "vue-router打开新标签页"],
           ["/Vue/history路由nginx配置", "history路由nginx配置"],
           ["/Vue/在客户端侧代码中使用环境变量", "在客户端侧代码中使用环境变量"],
-          ["/Vue/es5,es6实现watch", "es5,es6实现watch"]
+          ["/Vue/es5,es6实现watch", "es5,es6实现watch"],
+          ["/Vue/es5,es6实现computed", "es5,es6实现computed"]
         ]
       },
       {
