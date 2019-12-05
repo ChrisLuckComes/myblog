@@ -110,6 +110,10 @@ module.exports = {
         ]
       },
       {
+        title: "数据结构",
+        children: [["/数据结构/链表", "链表"]]
+      },
+      {
         title: "Webpack",
         children: [
           ["/Webpack/HelloWorld", "HelloWorld"],
