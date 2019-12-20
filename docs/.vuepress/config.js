@@ -84,7 +84,6 @@ module.exports = {
             "/JavaScript/实现同步和异步版本的sleep",
             "实现同步和异步版本的sleep"
           ],
-          ["/JavaScript/实现模板字符串", "实现模板字符串"],
           [
             "/JavaScript/实现一个可以连续传参的累加函数",
             "实现一个可以连续传参的累加函数"
@@ -125,6 +124,13 @@ module.exports = {
       {
         title: "flutter",
         children: [["/flutter/windows环境安装与配置", "windows环境安装与配置"]]
+      },
+      {
+        title: "正则表达式",
+        children: [
+          ["/正则表达式/金额格式化", "金额格式化"],
+          ["/正则表达式/实现模板字符串", "实现模板字符串"]
+        ]
       }
     ]
   }
