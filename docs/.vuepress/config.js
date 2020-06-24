@@ -117,6 +117,14 @@ module.exports = {
         children: [["/数据结构/链表", "链表"]],
       },
       {
+        title: "算法",
+        children: [
+          ["/算法/时间复杂度", "时间复杂度"],
+          ["/算法/斐波那契数列", "斐波那契数列"],
+          ["/算法/用两个栈实现队列", "用两个栈实现队列"],
+        ],
+      },
+      {
         title: "Webpack",
         children: [
           ["/Webpack/HelloWorld", "HelloWorld"],
